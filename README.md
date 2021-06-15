@@ -1,4 +1,4 @@
-# Introducao à programacao para geocientistas
+# Introducao à programação para geocientistas
 
 Disciplina oferecida no Curso de Graduação em Geofísica da Universidade Federal Fluminense
 
