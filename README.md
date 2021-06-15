@@ -15,7 +15,7 @@ Disciplina oferecida no Curso de Graduação em Geofísica da Universidade Feder
 4. Estruturas de decisão
 5. Estruturas de repetição
 6. Manipulação de strings
-7.  Manipulação de listas
+7. Manipulação de listas
 8. Vetores
 9. Matrizes 
 10. Funções
@@ -25,7 +25,7 @@ Disciplina oferecida no Curso de Graduação em Geofísica da Universidade Feder
 
 ## Referências
 
-    1. Eric Freeman, “Use a Cabeça! Aprenda a Programar”, Editora Alta Books, 2019 
-    2. Cormen, T. H. Leiserson, C. E; Rivest, R. – Algoritmos: Teoria e Prática, Editora Campus, 2002.
-    3. Forbellone, A.L.V.; Eberspacher, H.F. “lógica de programação”. Makron Books, 2000.
-    4. Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+1. Eric Freeman, “Use a Cabeça! Aprenda a Programar”, Editora Alta Books, 2019 
+2. Cormen, T. H. Leiserson, C. E; Rivest, R. – Algoritmos: Teoria e Prática, Editora Campus, 2002.
+3. Forbellone, A.L.V.; Eberspacher, H.F. “lógica de programação”. Makron Books, 2000.
+4. Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
